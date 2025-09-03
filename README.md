@@ -1,2 +1,0 @@
-# anahichat
-chat inicial proyext
